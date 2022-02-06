@@ -1,11 +1,12 @@
-package com.example.application.data.entity;
+package com.karmacoma.dndccu.data.entity;
 
-import com.example.application.data.AbstractEntity;
 import java.util.LinkedList;
 import java.util.List;
 import javax.persistence.Entity;
 import javax.persistence.OneToMany;
 import javax.validation.constraints.NotBlank;
+
+import com.karmacoma.dndccu.data.AbstractEntity;
 
 @Entity
 public class Company extends AbstractEntity {

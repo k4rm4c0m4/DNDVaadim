@@ -1,4 +1,4 @@
-package com.example.application.views.list;
+package com.karmacoma.dndccu.views.list;
 
 import com.vaadin.flow.component.html.H2;
 import com.vaadin.flow.component.html.Image;
@@ -30,5 +30,4 @@ public class ListView extends VerticalLayout {
         setDefaultHorizontalComponentAlignment(Alignment.CENTER);
         getStyle().set("text-align", "center");
     }
-
 }
