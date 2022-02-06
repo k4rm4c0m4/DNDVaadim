@@ -1,11 +1,11 @@
-package com.karmacoma.dndccu.data.generator;
+package org.karmacoma.dndccu.data.generator;
 
-import com.karmacoma.dndccu.data.entity.Company;
-import com.karmacoma.dndccu.data.entity.Contact;
-import com.karmacoma.dndccu.data.entity.Status;
-import com.karmacoma.dndccu.data.repository.CompanyRepository;
-import com.karmacoma.dndccu.data.repository.ContactRepository;
-import com.karmacoma.dndccu.data.repository.StatusRepository;
+import org.karmacoma.dndccu.data.entity.Company;
+import org.karmacoma.dndccu.data.entity.Contact;
+import org.karmacoma.dndccu.data.entity.Status;
+import org.karmacoma.dndccu.data.repository.CompanyRepository;
+import org.karmacoma.dndccu.data.repository.ContactRepository;
+import org.karmacoma.dndccu.data.repository.StatusRepository;
 import com.vaadin.exampledata.DataType;
 import com.vaadin.exampledata.ExampleDataGenerator;
 import com.vaadin.flow.spring.annotation.SpringComponent;

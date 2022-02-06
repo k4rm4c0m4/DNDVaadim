@@ -1,4 +1,4 @@
-package com.karmacoma.dndccu;
+package org.karmacoma.dndccu;
 
 import com.vaadin.flow.component.dependency.NpmPackage;
 import org.springframework.boot.SpringApplication;

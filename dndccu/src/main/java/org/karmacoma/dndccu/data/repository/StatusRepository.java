@@ -1,6 +1,6 @@
-package com.karmacoma.dndccu.data.repository;
+package org.karmacoma.dndccu.data.repository;
 
-import com.karmacoma.dndccu.data.entity.Status;
+import org.karmacoma.dndccu.data.entity.Status;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

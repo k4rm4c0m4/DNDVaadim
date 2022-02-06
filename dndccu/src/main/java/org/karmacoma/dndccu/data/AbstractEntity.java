@@ -1,4 +1,4 @@
-package com.karmacoma.dndccu.data;
+package org.karmacoma.dndccu.data;
 
 import java.util.UUID;
 import javax.persistence.GeneratedValue;

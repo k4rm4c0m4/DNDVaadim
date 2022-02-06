@@ -1,7 +1,7 @@
-package com.karmacoma.dndccu.data.entity;
+package org.karmacoma.dndccu.data.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.karmacoma.dndccu.data.AbstractEntity;
+import org.karmacoma.dndccu.data.AbstractEntity;
 
 import javax.persistence.Entity;
 import javax.persistence.JoinColumn;

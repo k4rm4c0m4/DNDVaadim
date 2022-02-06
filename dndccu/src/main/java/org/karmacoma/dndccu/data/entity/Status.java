@@ -1,8 +1,8 @@
-package com.karmacoma.dndccu.data.entity;
+package org.karmacoma.dndccu.data.entity;
 
 import javax.persistence.Entity;
 
-import com.karmacoma.dndccu.data.AbstractEntity;
+import org.karmacoma.dndccu.data.AbstractEntity;
 
 @Entity
 public class Status extends AbstractEntity {
